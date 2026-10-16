@@ -106,4 +106,3 @@ Possible future improvements:
 
 This project is intended for educational purposes and for practicing programming and networking skills.  
 Use it **only** against systems you own or for which you have explicit authorization. Unauthorized use of scanning tools may be illegal under the laws of your country.
-```
